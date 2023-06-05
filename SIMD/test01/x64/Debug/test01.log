@@ -1,0 +1,3 @@
+﻿  test.c
+D:\2023githubcode\MPI-learing\SIMD\test01\test.c(61,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test01.vcxproj -> D:\2023githubcode\MPI-learing\SIMD\x64\Debug\test01.exe
